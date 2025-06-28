@@ -1,6 +1,6 @@
 ## Welcome to Quorra's space
 
-Quorra is an OIDC IDP that uses a mobile token to sign in. "Sign in using a QR code" but as an OIDC identity provider.
+Quorra is an OIDC IDP that uses mobile tokens instead of passwords. "Sign in using a QR code" but as an OIDC identity provider.
 
 <!--
 
