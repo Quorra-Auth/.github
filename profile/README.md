@@ -4,6 +4,8 @@ Quorra is an OIDC IDP that uses mobile tokens instead of passwords. "Sign in usi
 
 Read [my blog post](https://k8ie.one/blog/posts/2025-11-12-quorra/) for more details.
 
+https://github.com/user-attachments/assets/eed8d248-3e37-4277-9cfb-20d7946c8ca2
+
 <!--
 
 **Here are some ideas to get you started:**
